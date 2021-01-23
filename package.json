@@ -1,0 +1,17 @@
+{
+  "name": "TGBFR",
+  "version": "1.0.0",
+  "description": "Antoo's Bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antoo_ft_LightOxygen_",
+  "license": "GPL",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "fs": "0.0.1-security",
+    "https": "^1.0.0",
+    "ms": "file:node_modules/ms"
+  }
+}
