@@ -75,9 +75,6 @@ bot.on("message", msg => {
 
             msg.delete(100);
         }
-
-//Utility Commands
-
         
 
 // Fun Commands 
